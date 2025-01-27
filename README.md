@@ -1,7 +1,7 @@
 # 練習專案五：大役世代
 
 ## 簡介
-「大疫世代」透過 CSSE at Johns Hopkins University [csse_covid_19_data](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) 提供 2020-01-22 至 2023-03-09 的每日報告與時間序列資料製作出了頁籤式疫情儀表板。使用了 `pandas` 與 `sqlite3` 建立了資料庫，利用 `gradio` 進行概念驗證並做出成品。
+「大疫世代」透過 CSSE at Johns Hopkins University [csse_covid_19_data](https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data) 提供 2020-01-22 至 2023-03-09 的每日報告與時間序列資料製作出了頁籤式疫情儀表板。使用了 `pandas` 與 `sqlite3` 建立了資料庫，利用 `gradio` 進行概念驗證並做出成品。可透過Hugging Face Spaces的連結參考成品：<https://huggingface.co/spaces/Emilyoyo/covid_19_pandemic>。
 
 ## 如何重現
 - 安裝 [Miniconda](https://docs.anaconda.com/miniconda/)
